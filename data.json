@@ -1,0 +1,80 @@
+[
+    {
+        "crop": "Paady",
+        "stage": "harvest",
+        "weather": "rainy",
+        "advisory": "Reduce water and prepare for harvest."
+    },
+    {
+        "crop": "",
+        "stage": "sowing",
+        "weather": "normal",
+        "advisory": "Apply light irrigation and organic manure."
+    },
+    {
+        "crop": "",
+        "stage": "sowing",
+        "weather": "normal",
+        "advisory": "Apply light irrigation and organic manure."
+    },
+    {
+        "crop": "",
+        "stage": "sowing",
+        "weather": "normal",
+        "advisory": "Apply light irrigation and organic manure."
+    },
+    {
+        "crop": "",
+        "stage": "sowing",
+        "weather": "normal",
+        "advisory": "Apply light irrigation and organic manure."
+    },
+    {
+        "crop": "",
+        "stage": "sowing",
+        "weather": "normal",
+        "advisory": "Apply light irrigation and organic manure."
+    },
+    {
+        "crop": "Paady",
+        "stage": "harvest",
+        "weather": "dry",
+        "advisory": "Reduce water and prepare for harvest."
+    },
+    {
+        "crop": "",
+        "stage": "sowing",
+        "weather": "normal",
+        "advisory": "Apply light irrigation and organic manure."
+    },
+    {
+        "crop": "",
+        "stage": "sowing",
+        "weather": "normal",
+        "advisory": "Apply light irrigation and organic manure."
+    },
+    {
+        "crop": "",
+        "stage": "sowing",
+        "weather": "normal",
+        "advisory": "Apply light irrigation and organic manure."
+    },
+    {
+        "crop": "",
+        "stage": "sowing",
+        "weather": "normal",
+        "advisory": "Apply light irrigation and organic manure."
+    },
+    {
+        "crop": "",
+        "stage": "sowing",
+        "weather": "normal",
+        "advisory": "Apply light irrigation and organic manure."
+    },
+    {
+        "crop": "Paady",
+        "stage": "harvest",
+        "weather": "rainy",
+        "advisory": "Reduce water and prepare for harvest."
+    }
+]
